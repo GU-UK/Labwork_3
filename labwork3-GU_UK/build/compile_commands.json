@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sand_simulation.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sand_simulation.dir\\src\\main.cpp.obj -c C:\\Users\\ZAERG\\Desktop\\C++\\labwork3-GU_UK\\src\\main.cpp",
+  "file": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/src/main.cpp",
+  "output": "CMakeFiles/sand_simulation.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sand_simulation.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sand_simulation.dir\\src\\bmp.cpp.obj -c C:\\Users\\ZAERG\\Desktop\\C++\\labwork3-GU_UK\\src\\bmp.cpp",
+  "file": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/src/bmp.cpp",
+  "output": "CMakeFiles/sand_simulation.dir/src/bmp.cpp.obj"
+},
+{
+  "directory": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sand_simulation.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sand_simulation.dir\\src\\parser.cpp.obj -c C:\\Users\\ZAERG\\Desktop\\C++\\labwork3-GU_UK\\src\\parser.cpp",
+  "file": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/src/parser.cpp",
+  "output": "CMakeFiles/sand_simulation.dir/src/parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sand_simulation.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sand_simulation.dir\\src\\read_file.cpp.obj -c C:\\Users\\ZAERG\\Desktop\\C++\\labwork3-GU_UK\\src\\read_file.cpp",
+  "file": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/src/read_file.cpp",
+  "output": "CMakeFiles/sand_simulation.dir/src/read_file.cpp.obj"
+},
+{
+  "directory": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sand_simulation.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sand_simulation.dir\\src\\sand_model.cpp.obj -c C:\\Users\\ZAERG\\Desktop\\C++\\labwork3-GU_UK\\src\\sand_model.cpp",
+  "file": "C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/src/sand_model.cpp",
+  "output": "CMakeFiles/sand_simulation.dir/src/sand_model.cpp.obj"
+}
+]
