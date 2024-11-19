@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sand_simulation.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\sand_simulation.dir/objects.a @CMakeFiles\sand_simulation.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sand_simulation.dir/objects.a -Wl,--no-whole-archive -o C:\Users\ZAERG\Desktop\C++\labwork3-GU_UK\bin\sand_simulation.exe -Wl,--out-implib,libsand_simulation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sand_simulation.dir\linkLibs.rsp

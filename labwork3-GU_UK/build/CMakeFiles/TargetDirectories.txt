@@ -1,3 +1,0 @@
-C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build/CMakeFiles/sand_simulation.dir
-C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build/CMakeFiles/edit_cache.dir
-C:/Users/ZAERG/Desktop/C++/labwork3-GU_UK/build/CMakeFiles/rebuild_cache.dir
