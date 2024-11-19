@@ -17,25 +17,6 @@ set(SOURCE_FILES
 )
 
 # Указываем путь для исполнимого файла
-cmake_minimum_required(VERSION 3.10)
-
-project(SandSimulation)
-
-set(CMAKE_CXX_STANDARD 17)
-
-# Указываем директорию для заголовочных файлов
-include_directories(include)
-
-# Исходники
-set(SOURCE_FILES
-    src/main.cpp
-    src/bmp.cpp
-    src/parser.cpp
-    src/read_file.cpp
-    src/sand_model.cpp
-)
-
-# Указываем путь для исполнимого файла
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 
 # Создаем исполнимый файл
